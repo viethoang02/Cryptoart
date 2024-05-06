@@ -1,0 +1,54 @@
+/* *{
+    background-color: black;
+} */
+
+.navi{
+    width: auto;
+    height: 32px;
+}
+.logo{
+    display: inline-block;
+    color: white;
+    width: 117px;
+    height: 13px;
+}
+
+.header{
+    display: inline-block;
+}
+.nav{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    line-height: 22px;
+    width: 700px;
+    margin-right: 24px;
+    text-align: center;
+}
+
+.home{
+    width: 43px;
+    height: 22px;
+}
+
+.about{
+    width: 51px;
+    height: 22px;
+}
+
+.char, .com{
+    width: 98px;;
+    height: 22px;
+}
+
+.faq{
+    width: 28px;
+    height: 22px;
+}
+
+.img, bx{
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+}
